@@ -1,0 +1,84 @@
+*,
+*:before,
+*::after {
+    box-sizing: border-box ;
+}
+
+body {
+    overflow: hidden;
+    background-color: rgb(77, 77, 77);
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+
+.header {
+    height: 300px;
+    width: 1587px;
+}
+
+.upper-main {
+    margin: -180px 21px;
+}
+
+.upper-image {
+    margin: 10px 1600px;    
+}
+
+.p1 {
+    margin: 0 14px;
+    background-color: rgb(216, 37, 37);
+    border: 2px solid rgb(31, 31, 31);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-decoration: none;
+}
+
+.p2 {
+    margin: 0 90px;
+    background-color: rgb(216, 37, 37);
+    border: 2px solid rgb(31, 31, 31);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-decoration: none;
+}
+
+.p3 {
+    background-color: rgb(216, 37, 37);
+    border: 2px solid rgb(31, 31, 31);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-decoration: none;
+}
+
+.p4 {
+    margin: 0 90px;
+    background-color: rgb(216, 37, 37);
+    border: 2px solid rgb(31, 31, 31);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-decoration: none;
+}
+
+.p5 {
+    background-color: rgb(216, 37, 37);
+    border: 2px solid rgb(31, 31, 31);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-decoration: none;
+}
+
+.p6 {
+    margin: 0 90px;
+    background-color: rgb(216, 37, 37);
+    border: 2px solid rgb(31, 31, 31);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
